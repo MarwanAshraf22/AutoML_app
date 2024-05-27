@@ -76,11 +76,6 @@ Here is a brief example of how to use the application:
 
 Contributions are welcome! Please create a pull request with a detailed description of the changes.
 
-## License
-
-This project is licensed under the MIT License.
-
----
 
 Enjoy using the AutoML Project!
 
