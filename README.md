@@ -15,8 +15,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
 
-    `git clone https://github.com/your-username/automl-project.git`
-    `cd automl-project`
+    `git clone https://github.com/MarwanAshraf22/AutoML_app.git`
 
 2. **Install the required packages:**
 
